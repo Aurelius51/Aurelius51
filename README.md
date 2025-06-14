@@ -1,4 +1,10 @@
 # 👋 Hi, I'm DIGVIJAY SINGH !
+
+<img align="right" height="200" src="https://media.tenor.com/VtscsoFt0aUAAAAM/ponke-ponkesol.gif"  />
+
+###
+<div align="left">
+
 👩🏻‍💻 Currently, learning Flutter and Firebase<br/>
 ✌️ Nocturnal programmer<br/>
 🧾 20, CS Undergrad<br/>
@@ -32,7 +38,6 @@
 <a href="https://linkedin.com/in/digvijay-singh-bb3779294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digvijay-singh-bb3779294" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/digvijaysingh47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="digvijaysingh47" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/digvijaysinghdsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="digvijaysinghdsa" height="30" width="40" /></a>
-<a href="https://discord.gg/daddydigvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daddydigvijay" height="30" width="40" /></a>
 </p>
 
 <p align="center">
