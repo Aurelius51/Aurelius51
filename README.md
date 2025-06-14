@@ -14,6 +14,10 @@
 <br/>
 
 
+<img src="https://raw.githubusercontent.com/Aurelius51/Aurelius51/output/snake.svg" alt="Snake animation" />
+
+###
+
 # Tech Stack 🛠
 <p align="center">
   <a href="https://skillicons.dev">
