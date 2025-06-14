@@ -5,4 +5,10 @@
 🌷 Niche Interest : fantasy fiction<br/>
 💭 1.01⁽³⁶⁵⁾ <br/>
 
+# Tech Stack 🛠
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,figma,firebase,vscode,idea,androidstudio&theme=dark&perline=3" />
+  </a>
+</p>
 
