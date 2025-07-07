@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DIGVIJAY SINGH !
+# 👋 Hi, I'm DIGVIJAY SINGH!
 
 <img align="right" width="140" height="140" style="margin-top: 10px;" src="https://media.tenor.com/VtscsoFt0aUAAAAM/ponke-ponkesol.gif" />
 
@@ -14,14 +14,26 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelius51&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aurelius51&theme=radical&border=false&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Aurelius51&theme=radical&hide_border=false" />
-  <img align="right" width="180" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelius51&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aurelius51&theme=radical&border=false&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Aurelius51&theme=radical&hide_border=false" />
+    </td>
+    <td align="center" valign="middle">
+      <img width="180" height="150" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" />
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
