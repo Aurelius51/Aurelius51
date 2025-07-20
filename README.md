@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DIGVIJAY SINGH!
 
-<img align="right" width="140" height="140" src="https://media.tenor.com/VtscsoFt0aUAAAAM/ponke-ponkesol.gif" />
+<img align="right" width="120" height="140" src="https://media.tenor.com/VtscsoFt0aUAAAAM/ponke-ponkesol.gif" />
 
 <div align="left">
 
